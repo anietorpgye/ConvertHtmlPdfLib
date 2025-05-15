@@ -21,10 +21,10 @@ Definir el alcance, requisitos y entregables para el desarrollo de la biblioteca
 2. **Alcance no funcional**  
    - Alto rendimiento: procesar lotes de documentos simultáneos.  
    - Escalabilidad: uso en entornos on-premise y contenedores Docker.  
-   - Compatibilidad .NET 6+ y Java 8+.  
+   - Compatibilidad .NET 6+
  
 3. **Objetivos específicos**  
-   - Entregar una libreria clara, con ejemplos de uso en C# y Java.  
+   - Entregar una libreria clara, con ejemplos de uso en C#.  
    - Documentación completa (README, ejemplos, changelog).  
    - Cumplimiento de licenciamiento AGPL-3.0 (iText).  
  
