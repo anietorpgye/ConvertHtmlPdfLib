@@ -61,21 +61,10 @@ Definir el alcance, requisitos y entregables para el desarrollo de la biblioteca
 3. **README.md** con secciones: instalación, ejemplos de uso, badges, contribuciones.  
 4. **CHANGELOG.md** con historial de versiones.  
 6. **Paquete NuGet** publicado.  
-
----
- 
-## 6. Soporte y Mantenimiento
-- Período de garantía: 3 meses tras entrega de v1.0.  
-- Canal de reporte de incidencias: GitHub Issues.  
-- Tiempo de respuesta SLAs:  
-  - Crítico (producción caída): 24 h  
-  - Alto (fallo grave): 48 h  
-  - Medio/Bajo: 5 días hábiles  
  
 ---
  
-## 7. Criterios de Aceptación
-- Cumple todos los RF y RNF listados.  
+## 6. Criterios de Aceptación
 - Documentación revisada y aprobada.  
 - Pruebas unitarias verdes y cobertura ≥ 80%.  
 - Ejemplos de uso ejecutables sin errores.  
@@ -83,7 +72,7 @@ Definir el alcance, requisitos y entregables para el desarrollo de la biblioteca
  
 ---
  
-## 8. Anexos
+## 7. Anexos
 - Enlace al repositorio: https://github.com/anietorpgye/ConvertHtmlPdfLib  
 - Enlace a la AGPL-3.0: https://www.gnu.org/licenses/agpl-3.0.txt, https://itextpdf.com/how-buy/legal/agpl-gnu-affero-general-public-license
 - Contacto: adrian.nieto.art@gmail.com  
